@@ -18,3 +18,9 @@
 5. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 - They merge. 
+
+6. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+- Refer to answer nr. 3 in lesson_1_reflections.
+
+
