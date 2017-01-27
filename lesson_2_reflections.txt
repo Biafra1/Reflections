@@ -1,0 +1,8 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+
+- Git creates .git folder which will start tracking folder.
+- I need it to track files.
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Its different in a way it is in the transition from wd to repository. It offers a increase in control of files you want to commit
